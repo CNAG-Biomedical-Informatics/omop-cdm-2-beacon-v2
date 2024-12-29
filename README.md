@@ -1,20 +1,39 @@
-# Enhancing Semantic Interoperability in Precision Medicine: A Case Study of OMOP CDM to Beacon v2 Conversion within the Spanish IMPaCT-Data Project
- 
-## Google Colab Tutorial
+# Enhancing Semantic Interoperability in Precision Medicine: Converting OMOP CDM to Beacon v2 in the Spanish IMPaCT-Data Project
 
-You can access the tutorial on Google Colab using the following link:
+This repository provides resources and a tutorial notebook for converting OMOP CDM data to Beacon v2 format, as described in our study.
+
+---
+
+## **Google Colab Tutorial**
+
+Access the interactive tutorial on Google Colab via the link below:
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mRsR9FRVhp8FTu6nW0IRBUiGxFSNaUmA)
 
-## Local Copy
+---
 
-For a local copy of the tutorial, you can access it here:
+## **Local Copy of the Tutorial**
+
+If you prefer running the tutorial locally, the notebook is available here:
+
 [Local Copy](nb/)
 
-## Convert-Pheno
+---
 
-**CLI Source Code**: <a href="https://github.com/cnag-biomedical-informatics/convert-pheno" target="_blank">https://github.com/cnag-biomedical-informatics/convert-pheno</a>
+## **Convert-Pheno Tool**
 
-**CPAN Distribution**: <a href="https://metacpan.org/pod/Convert::Pheno" target="_blank">https://metacpan.org/pod/Convert::Pheno</a>
+The **Convert-Pheno** tool is a key resource for transforming OMOP CDM datasets into Beacon v2 format. Below are relevant resources for using the tool:
 
-**Docker Hub Image**: <a href="https://hub.docker.com/r/manuelrueda/convert-pheno/tags" target="_blank">https://hub.docker.com/r/manuelrueda/convert-pheno/tags</a>
+- **CLI Source Code**: [GitHub Repository](https://github.com/cnag-biomedical-informatics/convert-pheno)
+- **CPAN Distribution**: [Perl Module Documentation](https://metacpan.org/pod/Convert::Pheno)
+- **Docker Image**: [Docker Hub Tags](https://hub.docker.com/r/manuelrueda/convert-pheno/tags)
+
+---
+
+## **How to Cite**
+
+If you use this tutorial or tools in your work, please consider citing our paper:
+
+> Rueda et al. Enhancing Semantic Interoperability in Precision Medicine: Converting OMOP CDM to Beacon v2 in the Spanish IMPaCT-Data Project. 
+
+> DOI (Pre-print; medRxiv): https://doi.org/10.1101/2024.12.25.24319606
