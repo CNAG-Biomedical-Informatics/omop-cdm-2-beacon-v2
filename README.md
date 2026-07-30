@@ -8,7 +8,7 @@ The paper also describes an on-the-fly architecture that connects a PostgreSQL O
 
 The notebook uses synthetic [EUNOMIA](https://ohdsi.github.io/Eunomia/) data and covers:
 
-- installation of the tested Convert-Pheno 0.32 release;
+- installation of the tested Convert-Pheno 0.33 release;
 - SQL-dump conversion and export of parsed OMOP tables as CSV;
 - standard and memory-efficient streaming conversion;
 - selection of specific OMOP CDM tables; and
